@@ -1,2 +1,2 @@
-# Convertion-of-Temparature
+# My first repo
 my first code in C !!!
